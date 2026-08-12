@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64098630253",
+    "project_id": "air-quality-monitoring-v2",
+    "storage_bucket": "air-quality-monitoring-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64098630253:android:ee181b344802eb25ba5d64",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZfLG_C9UMIxD8sN_r48wt7zBoPGrrrn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
